@@ -1,0 +1,463 @@
+1. Summary
+Meeting title	Week 2 Meeting - Web structure
+Attended participants	87
+Start time (UTC)	10/23/23, 8:52:05 AM
+End time (UTC)	10/23/23, 1:44:31 PM
+Meeting duration	4h 52m 25s
+Average attendance time	3h 52m 8s
+
+2. Participants
+Name	First Join (UTC)	Last Leave (UTC)	In-Meeting Duration	Email	Participant ID (UPN)	Role
+Emmanuel Daniel	10/23/23, 9:01:14 AM	10/23/23, 12:57:32 PM	4h 41m 55s	Emmanuel.Daniel@womentechsters.org	Emmanuel.Daniel@womentechsters.org	Organizer
+Mariam Ademola	10/23/23, 8:52:08 AM	10/23/23, 1:42:10 PM	5h 11m 7s	MariamAdemola@womentechsters.org	MariamAdemola@womentechsters.org	Presenter
+Faith Ekechi	10/23/23, 8:52:56 AM	10/23/23, 1:44:31 PM	4h 49m 15s	Faith.Ekechi@womentechsters.org	Faith.Ekechi@womentechsters.org	Presenter
+Vida  Naapire	10/23/23, 8:52:57 AM	10/23/23, 1:44:31 PM	4h 51m 32s	VidaNaapire@womentechsters.org	VidaNaapire@womentechsters.org	Presenter
+Emem Eduoku	10/23/23, 8:53:33 AM	10/23/23, 1:44:31 PM	5h 11m 1s	EmemEduoku@womentechsters.org	EmemEduoku@womentechsters.org	Presenter
+Gloria Iseghehi	10/23/23, 8:53:44 AM	10/23/23, 1:38:29 PM	5h 18m 35s	GloriaIseghehi@womentechsters.org	GloriaIseghehi@womentechsters.org	Presenter
+Raihanat Adewuyi	10/23/23, 8:53:49 AM	10/23/23, 12:59:02 PM	5h 35m 59s	Raihanat.Adewuyi@womentechsters.org	Raihanat.Adewuyi@womentechsters.org	Presenter
+Helen Oridupa	10/23/23, 8:54:55 AM	10/23/23, 12:53:12 PM	4h 41m 11s	HelenOridupa@womentechsters.org	HelenOridupa@womentechsters.org	Presenter
+Goodluck Eze	10/23/23, 8:55:11 AM	10/23/23, 1:43:41 PM	4h 3m 19s	GoodluckEze@womentechsters.org	GoodluckEze@womentechsters.org	Presenter
+Gift Onuoha	10/23/23, 8:55:45 AM	10/23/23, 1:41:11 PM	4h 30m 47s	GiftOnuoha@womentechsters.org	GiftOnuoha@womentechsters.org	Presenter
+Ruth Bamgbose	10/23/23, 8:56:06 AM	10/23/23, 1:08:17 PM	3h 55m 13s	RuthBamgbose@womentechsters.org	RuthBamgbose@womentechsters.org	Presenter
+Sadiya Idris	10/23/23, 8:57:45 AM	10/23/23, 10:23:44 AM	1h 24m 33s	SadiyaIdris@womentechsters.org	SadiyaIdris@womentechsters.org	Presenter
+Anthonia Mbah	10/23/23, 8:57:52 AM	10/23/23, 1:44:31 PM	4h 45m 59s	AnthoniaMbah@womentechsters.org	AnthoniaMbah@womentechsters.org	Presenter
+Oluwaseun Adegoke	10/23/23, 8:58:19 AM	10/23/23, 11:57:43 AM	2h 59m 23s	OluwaseunAdegoke@womentechsters.org	OluwaseunAdegoke@womentechsters.org	Presenter
+Menna Rihan	10/23/23, 8:58:37 AM	10/23/23, 1:02:17 PM	4h 3m 27s	MennaRihan@womentechsters.org	MennaRihan@womentechsters.org	Presenter
+Bridget Ngonzi	10/23/23, 8:59:06 AM	10/23/23, 1:44:23 PM	4h 45m 14s	Bridget.Ngonzi@womentechsters.org	Bridget.Ngonzi@womentechsters.org	Presenter
+Lois  Ugbe	10/23/23, 8:59:11 AM	10/23/23, 1:44:31 PM	4h 45m 2s	LoisUgbe@womentechsters.org	LoisUgbe@womentechsters.org	Presenter
+Grace  Salawe	10/23/23, 8:59:44 AM	10/23/23, 1:31:51 PM	4h 25m 18s	GraceSalawe@womentechsters.org	GraceSalawe@womentechsters.org	Presenter
+Christiana Osedi	10/23/23, 8:59:52 AM	10/23/23, 10:26:44 AM	1h 24m 55s	ChristianaOsedi@womentechsters.org	ChristianaOsedi@womentechsters.org	Presenter
+Chiamaka  Odugu	10/23/23, 9:00:10 AM	10/23/23, 1:43:47 PM	4h 37m 45s	ChiamakaOdugu@womentechsters.org	ChiamakaOdugu@womentechsters.org	Presenter
+Pipeloluwa Aremo	10/23/23, 9:00:26 AM	10/23/23, 1:39:51 PM	4h 39m 31s	PipeloluwaAremo@womentechsters.org	PipeloluwaAremo@womentechsters.org	Presenter
+Flora Nwakpa	10/23/23, 9:01:02 AM	10/23/23, 1:38:31 PM	4h 36m 48s	Flora.Nwakpa@womentechsters.org	Flora.Nwakpa@womentechsters.org	Presenter
+Oluwatoyin  Oredein	10/23/23, 9:01:05 AM	10/23/23, 1:40:56 PM	4h 25m 15s	Oluwatoyin.Oredein@womentechsters.org	Oluwatoyin.Oredein@womentechsters.org	Presenter
+Kelechi Agwu	10/23/23, 9:01:10 AM	10/23/23, 12:55:22 PM	5h 3m 33s	KelechiAgwu@womentechsters.org	KelechiAgwu@womentechsters.org	Presenter
+Aminat Lawal	10/23/23, 9:01:20 AM	10/23/23, 1:40:17 PM	4h 30m 11s	Aminat.Lawal@womentechsters.org	Aminat.Lawal@womentechsters.org	Presenter
+Zipeta Paul	10/23/23, 9:01:29 AM	10/23/23, 1:31:10 PM	4h 29m 24s	ZipetaPaul@womentechsters.org	ZipetaPaul@womentechsters.org	Presenter
+Sumayyah  Muhibudeen	10/23/23, 9:01:31 AM	10/23/23, 1:44:31 PM	4h 41m 13s	Sumayyah.Muhibudeen@womentechsters.org	Sumayyah.Muhibudeen@womentechsters.org	Presenter
+Stella Ladegbaye	10/23/23, 9:01:44 AM	10/23/23, 1:37:32 PM	4h 7m 33s	StellaLadegbaye@womentechsters.org	StellaLadegbaye@womentechsters.org	Presenter
+Iyanuoluwa Olawoye	10/23/23, 9:01:47 AM	10/23/23, 12:40:21 PM	3h 25m 18s	Iyanuoluwa.Olawoye@womentechsters.org	Iyanuoluwa.Olawoye@womentechsters.org	Presenter
+Ebere Adekogbe	10/23/23, 9:01:52 AM	10/23/23, 1:38:45 PM	4h 36m 48s	EbereAdekogbe@womentechsters.org	EbereAdekogbe@womentechsters.org	Presenter
+Jochebed Ibrahim	10/23/23, 9:01:53 AM	10/23/23, 1:31:48 PM	4h 15m 35s	JochebedIbrahim@womentechsters.org	JochebedIbrahim@womentechsters.org	Presenter
+Eucharia Okoye	10/23/23, 9:01:55 AM	10/23/23, 1:44:00 PM	4h 39m 21s	EuchariaOkoye@womentechsters.org	EuchariaOkoye@womentechsters.org	Presenter
+Shulammite Ughojo	10/23/23, 9:02:03 AM	10/23/23, 1:38:32 PM	3h 15m 18s	ShulammiteUghojo@womentechsters.org	ShulammiteUghojo@womentechsters.org	Presenter
+Precious Gbodii	10/23/23, 9:02:25 AM	10/23/23, 1:18:34 PM	4h 15m 49s	PreciousGbodii@womentechsters.org	PreciousGbodii@womentechsters.org	Presenter
+Blessing Effiong-John	10/23/23, 9:03:00 AM	10/23/23, 1:38:20 PM	4h 26m 58s	BlessingEffiong-John@womentechsters.org	BlessingEffiong-John@womentechsters.org	Presenter
+Oluwalayomi Lawore	10/23/23, 9:03:11 AM	10/23/23, 1:35:28 PM	3h 54m 19s	OluwalayomiLawore@womentechsters.org	OluwalayomiLawore@womentechsters.org	Presenter
+Zainab Abdulmumin	10/23/23, 9:03:41 AM	10/23/23, 1:30:39 PM	4h 26m 29s	ZainabAbdulmumin@womentechsters.org	ZainabAbdulmumin@womentechsters.org	Presenter
+Betelhem Derse	10/23/23, 9:04:01 AM	10/23/23, 1:44:31 PM	4h 19m 12s	Betelhem.Derse@womentechsters.org	Betelhem.Derse@womentechsters.org	Presenter
+Adaobi  Chuma-Okeke	10/23/23, 9:04:06 AM	10/23/23, 1:43:42 PM	5h 5m 17s	Adaobi.Chuma-Okeke@womentechsters.org	Adaobi.Chuma-Okeke@womentechsters.org	Presenter
+Alice Odamtten	10/23/23, 9:04:26 AM	10/23/23, 1:37:28 PM	4h 32m 17s	AliceOdamtten@womentechsters.org	AliceOdamtten@womentechsters.org	Presenter
+Nnenwogo Nwanja	10/23/23, 9:04:49 AM	10/23/23, 10:10:04 AM	1h 5m 14s	NnenwogoNwanja@womentechsters.org	NnenwogoNwanja@womentechsters.org	Presenter
+Chioma Nnadi	10/23/23, 9:04:51 AM	10/23/23, 1:44:31 PM	4h 37m 44s	ChiomaNnadi@womentechsters.org	ChiomaNnadi@womentechsters.org	Presenter
+Simbiat Awoyemi	10/23/23, 9:05:05 AM	10/23/23, 12:59:03 PM	4h 42m 23s	SimbiatAwoyemi@womentechsters.org	SimbiatAwoyemi@womentechsters.org	Presenter
+Ogechukwu  Igbokwe	10/23/23, 9:05:06 AM	10/23/23, 1:44:31 PM	4h 15m 49s	Ogechukwu.Igbokwe@womentechsters.org	Ogechukwu.Igbokwe@womentechsters.org	Presenter
+Victoria  Olayode	10/23/23, 9:05:09 AM	10/23/23, 12:35:19 PM	3h 30m 8s	VictoriaOlayode@womentechsters.org	VictoriaOlayode@womentechsters.org	Presenter
+Feyisara  Agiri	10/23/23, 9:05:19 AM	10/23/23, 1:44:25 PM	4h 35m 9s	FeyisaraAgiri@womentechsters.org	FeyisaraAgiri@womentechsters.org	Presenter
+Annah Tumworobere	10/23/23, 9:05:20 AM	10/23/23, 1:41:02 PM	2h 29m 11s	AnnahTumworobere@womentechsters.org	AnnahTumworobere@womentechsters.org	Presenter
+Glory Glory	10/23/23, 9:05:39 AM	10/23/23, 10:00:33 AM	22m 22s	GloryGlory@womentechsters.org	GloryGlory@womentechsters.org	Presenter
+Nana Adwoa Mensah	10/23/23, 9:05:43 AM	10/23/23, 1:40:56 PM	4h 34m 57s	NanaAdwoaMensah@womentechsters.org	NanaAdwoaMensah@womentechsters.org	Presenter
+Dorcas Samuel	10/23/23, 9:05:47 AM	10/23/23, 1:30:54 PM	4h 21m 24s	DorcasSamuel@womentechsters.org	DorcasSamuel@womentechsters.org	Presenter
+Olaide Alabi	10/23/23, 9:06:12 AM	10/23/23, 1:30:45 PM	4h 24m 7s	OlaideAlabi@womentechsters.org	OlaideAlabi@womentechsters.org	Presenter
+Jemilah  Tajudeen	10/23/23, 9:06:19 AM	10/23/23, 1:41:04 PM	4h 7s	JemilahTajudeen@womentechsters.org	JemilahTajudeen@womentechsters.org	Presenter
+Kafayat Kazeem	10/23/23, 9:06:22 AM	10/23/23, 12:59:50 PM	4h 40m 19s	Kafayat.Kazeem@womentechsters.org	Kafayat.Kazeem@womentechsters.org	Presenter
+Victoria Oyekunle	10/23/23, 9:06:30 AM	10/23/23, 1:44:31 PM	4h 35m 39s	Victoria.Oyekunle@womentechsters.org	Victoria.Oyekunle@womentechsters.org	Presenter
+Oluwayemi Sanumi	10/23/23, 9:07:04 AM	10/23/23, 1:29:31 PM	4h 3m	OluwayemiSanumi@womentechsters.org	OluwayemiSanumi@womentechsters.org	Presenter
+Wak´Oleva  Maia	10/23/23, 9:07:35 AM	10/23/23, 1:44:31 PM	4h 36m 53s	WakOlevaMaia@womentechsters.org	WakOlevaMaia@womentechsters.org	Presenter
+Olawunmi Olabisi	10/23/23, 9:08:28 AM	10/23/23, 1:31:48 PM	4h 15m 21s	Olawunmi.Olabisi@womentechsters.org	Olawunmi.Olabisi@womentechsters.org	Presenter
+Elizabeth  Ani	10/23/23, 9:08:29 AM	10/23/23, 1:43:56 PM	4h 4m 10s	ElizabethAni@womentechsters.org	ElizabethAni@womentechsters.org	Presenter
+Onoriode  Iwema	10/23/23, 9:09:16 AM	10/23/23, 1:43:46 PM	4h 20m 22s	OnoriodeIwema@womentechsters.org	OnoriodeIwema@womentechsters.org	Presenter
+Kareen  Ajatiton	10/23/23, 9:09:47 AM	10/23/23, 1:35:40 PM	4h 25m 56s	Kareen.Ajatiton@womentechsters.org	Kareen.Ajatiton@womentechsters.org	Presenter
+Nina Spio Quansah	10/23/23, 9:09:56 AM	10/23/23, 12:49:20 PM	5h 6m 50s	Nina.SpioQuansah@womentechsters.org	Nina.SpioQuansah@womentechsters.org	Presenter
+Paskalia Akinyi	10/23/23, 9:10:16 AM	10/23/23, 1:38:05 PM	3h 48m 21s	Paskalia.Akinyi@womentechsters.org	Paskalia.Akinyi@womentechsters.org	Presenter
+Queen Chuku	10/23/23, 9:11:15 AM	10/23/23, 1:32:31 PM	4h 20m 39s	Queen.Chuku@womentechsters.org	Queen.Chuku@womentechsters.org	Presenter
+Kofoworola Cole	10/23/23, 9:11:22 AM	10/23/23, 1:37:04 PM	3h 4m 11s	KofoworolaCole@womentechsters.org	KofoworolaCole@womentechsters.org	Presenter
+Fadeelah Ipaye	10/23/23, 9:12:59 AM	10/23/23, 1:38:20 PM	3h 47m 29s	Fadeelah.Ipaye@womentechsters.org	Fadeelah.Ipaye@womentechsters.org	Presenter
+Olufunke Owoseni	10/23/23, 9:13:04 AM	10/23/23, 1:43:35 PM	4h 15m 45s	OlufunkeOwoseni@womentechsters.org	OlufunkeOwoseni@womentechsters.org	Presenter
+Oghenetejiri Akpede	10/23/23, 9:14:04 AM	10/23/23, 12:13:36 PM	1h 30m 33s	OghenetejiriAkpede@womentechsters.org	OghenetejiriAkpede@womentechsters.org	Presenter
+Cynthia Amaji	10/23/23, 9:14:22 AM	10/23/23, 1:44:25 PM	4h 17m 7s	CynthiaAmaji@womentechsters.org	CynthiaAmaji@womentechsters.org	Presenter
+Ayobami Dunmoye	10/23/23, 9:14:29 AM	10/23/23, 1:38:56 PM	3h 1m 12s	AyobamiDunmoye@womentechsters.org	AyobamiDunmoye@womentechsters.org	Presenter
+Aanu Adeyinka	10/23/23, 9:15:38 AM	10/23/23, 1:39:08 PM	4h 15m 39s	AanuAdeyinka@womentechsters.org	AanuAdeyinka@womentechsters.org	Presenter
+Oluwakemi  Olorunmaiye	10/23/23, 9:17:32 AM	10/23/23, 11:25:44 AM	1h 51m 23s	OluwakemiOlorunmaiye@womentechsters.org	OluwakemiOlorunmaiye@womentechsters.org	Presenter
+Faith Nnamani	10/23/23, 9:19:59 AM	10/23/23, 1:30:46 PM	4h 9m	FaithNnamani@womentechsters.org	FaithNnamani@womentechsters.org	Presenter
+Blessing Ehapa	10/23/23, 9:20:06 AM	10/23/23, 1:43:23 PM	3h 56m 40s	BlessingEhapa@womentechsters.org	BlessingEhapa@womentechsters.org	Presenter
+Abisola Adenigba	10/23/23, 9:20:15 AM	10/23/23, 1:07:54 PM	3h 26m 10s	AbisolaAdenigba@womentechsters.org	AbisolaAdenigba@womentechsters.org	Presenter
+Sholaye Nemi	10/23/23, 9:20:39 AM	10/23/23, 10:52:17 AM	1h 25m 15s	SholayeNemi@womentechsters.org	SholayeNemi@womentechsters.org	Presenter
+Lavisa Mlanzeli	10/23/23, 9:20:57 AM	10/23/23, 12:09:39 PM	2h 2m 59s	LavisaMlanzeli@womentechsters.org	LavisaMlanzeli@womentechsters.org	Presenter
+Elpedia Arthur	10/23/23, 9:21:44 AM	10/23/23, 12:14:42 PM	2h 47m 50s	ElpediaArthur@womentechsters.org	ElpediaArthur@womentechsters.org	Presenter
+Oluwatomisin Okeke	10/23/23, 9:24:30 AM	10/23/23, 1:00:50 PM	5h 8m 19s	Oluwatomisin.Okeke@womentechsters.org	Oluwatomisin.Okeke@womentechsters.org	Presenter
+Sonia Nwagbogun	10/23/23, 9:26:19 AM	10/23/23, 1:33:46 PM	3h 55m 29s	Sonia.Nwagbogun@womentechsters.org	Sonia.Nwagbogun@womentechsters.org	Presenter
+Benedictta  Nnaji	10/23/23, 9:29:48 AM	10/23/23, 1:37:05 PM	4h 7m 50s	Benedictta.Nnaji@womentechsters.org	Benedictta.Nnaji@womentechsters.org	Presenter
+Chinwendu Ogbonna	10/23/23, 9:30:09 AM	10/23/23, 1:44:31 PM	4h 10m	Chinwendu.Ogbonna@womentechsters.org	Chinwendu.Ogbonna@womentechsters.org	Presenter
+Aisha Kamsalem Kamsalem	10/23/23, 9:40:13 AM	10/23/23, 1:44:20 PM	3h 40m 18s	AishaKamsalemKamsalem@womentechsters.org	AishaKamsalemKamsalem@womentechsters.org	Presenter
+Aisha  Isah	10/23/23, 9:43:22 AM	10/23/23, 10:45:07 AM	1h 1m 45s	AishaIsah@womentechsters.org	AishaIsah@womentechsters.org	Presenter
+Emmanuel Daniel	10/23/23, 9:45:17 AM	10/23/23, 11:24:24 AM	1h 39m 6s	emmanuel.daniel@suretree.com	emmanuel.daniel@suretree.com	Presenter
+Maria Namatovu	10/23/23, 9:49:20 AM	10/23/23, 11:00:57 AM	1h 11m 36s	MariaNamatovu@womentechsters.org	MariaNamatovu@womentechsters.org	Presenter
+Ojochegbe Alikali	10/23/23, 9:52:55 AM	10/23/23, 10:12:17 AM	19m 21s	OjochegbeAlikali@womentechsters.org	OjochegbeAlikali@womentechsters.org	Presenter
+Christina  Haule	10/23/23, 10:17:51 AM	10/23/23, 1:44:31 PM	2h 25m 39s	ChristinaHaule@womentechsters.org	ChristinaHaule@womentechsters.org	Presenter
+
+3. In-Meeting Activities
+Name	Room Type	Room Name	Join Time (UTC)	Leave Time (UTC)	Duration	Email	Role
+Emmanuel Daniel	Main meeting		10/23/23, 9:01:14 AM	10/23/23, 9:08:15 AM	7m 1s	Emmanuel.Daniel@womentechsters.org	Organizer
+Emmanuel Daniel	Main meeting		10/23/23, 9:09:20 AM	10/23/23, 11:22:39 AM	2h 13m 19s	Emmanuel.Daniel@womentechsters.org	Organizer
+Emmanuel Daniel	Main meeting		10/23/23, 11:25:01 AM	10/23/23, 12:21:52 PM	56m 50s	Emmanuel.Daniel@womentechsters.org	Organizer
+Emmanuel Daniel	Breakout room	Room 12	10/23/23, 12:15:03 PM	10/23/23, 12:15:17 PM	14s	Emmanuel.Daniel@womentechsters.org	Organizer
+Emmanuel Daniel	Breakout room	Room 6	10/23/23, 12:33:41 PM	10/23/23, 12:35:48 PM	2m 7s	Emmanuel.Daniel@womentechsters.org	Organizer
+Emmanuel Daniel	Main meeting		10/23/23, 12:35:58 PM	10/23/23, 1:44:31 PM	1h 8m 33s	Emmanuel.Daniel@womentechsters.org	Organizer
+Emmanuel Daniel	Breakout room	Room 13	10/23/23, 12:38:11 PM	10/23/23, 12:39:56 PM	1m 44s	Emmanuel.Daniel@womentechsters.org	Organizer
+Emmanuel Daniel	Breakout room	Room 12	10/23/23, 12:40:11 PM	10/23/23, 12:44:20 PM	4m 8s	Emmanuel.Daniel@womentechsters.org	Organizer
+Emmanuel Daniel	Breakout room	Room 2	10/23/23, 12:44:26 PM	10/23/23, 12:46:23 PM	1m 56s	Emmanuel.Daniel@womentechsters.org	Organizer
+Emmanuel Daniel	Breakout room	Room 14	10/23/23, 12:46:47 PM	10/23/23, 12:47:06 PM	18s	Emmanuel.Daniel@womentechsters.org	Organizer
+Emmanuel Daniel	Breakout room	Room 1	10/23/23, 12:48:34 PM	10/23/23, 12:48:56 PM	22s	Emmanuel.Daniel@womentechsters.org	Organizer
+Emmanuel Daniel	Breakout room	Room 2	10/23/23, 12:49:04 PM	10/23/23, 12:49:29 PM	24s	Emmanuel.Daniel@womentechsters.org	Organizer
+Emmanuel Daniel	Breakout room	Room 3	10/23/23, 12:49:40 PM	10/23/23, 12:49:54 PM	14s	Emmanuel.Daniel@womentechsters.org	Organizer
+Emmanuel Daniel	Breakout room	Room 4	10/23/23, 12:51:20 PM	10/23/23, 12:51:40 PM	19s	Emmanuel.Daniel@womentechsters.org	Organizer
+Emmanuel Daniel	Breakout room	Room 5	10/23/23, 12:51:50 PM	10/23/23, 12:52:17 PM	26s	Emmanuel.Daniel@womentechsters.org	Organizer
+Emmanuel Daniel	Breakout room	Room 6	10/23/23, 12:52:28 PM	10/23/23, 12:53:19 PM	50s	Emmanuel.Daniel@womentechsters.org	Organizer
+Emmanuel Daniel	Breakout room	Room 7	10/23/23, 12:53:26 PM	10/23/23, 12:54:07 PM	40s	Emmanuel.Daniel@womentechsters.org	Organizer
+Emmanuel Daniel	Breakout room	Room 8	10/23/23, 12:54:26 PM	10/23/23, 12:54:29 PM	3s	Emmanuel.Daniel@womentechsters.org	Organizer
+Emmanuel Daniel	Breakout room	Room 9	10/23/23, 12:54:40 PM	10/23/23, 12:56:04 PM	1m 23s	Emmanuel.Daniel@womentechsters.org	Organizer
+Emmanuel Daniel	Breakout room	Room 10	10/23/23, 12:56:18 PM	10/23/23, 12:56:50 PM	31s	Emmanuel.Daniel@womentechsters.org	Organizer
+Emmanuel Daniel	Breakout room	Room 11	10/23/23, 12:56:59 PM	10/23/23, 12:57:32 PM	33s	Emmanuel.Daniel@womentechsters.org	Organizer
+Mariam Ademola	Main meeting		10/23/23, 8:52:08 AM	10/23/23, 11:04:58 AM	2h 12m 49s	MariamAdemola@womentechsters.org	Presenter
+Mariam Ademola	Main meeting		10/23/23, 11:13:32 AM	10/23/23, 1:31:32 PM	2h 18m	MariamAdemola@womentechsters.org	Presenter
+Mariam Ademola	Breakout room	Room 8	10/23/23, 12:09:28 PM	10/23/23, 12:49:09 PM	39m 40s	MariamAdemola@womentechsters.org	Presenter
+Mariam Ademola	Main meeting		10/23/23, 1:41:31 PM	10/23/23, 1:42:10 PM	38s	MariamAdemola@womentechsters.org	Presenter
+Faith Ekechi	Main meeting		10/23/23, 8:52:56 AM	10/23/23, 10:21:58 AM	1h 29m 1s	Faith.Ekechi@womentechsters.org	Presenter
+Faith Ekechi	Main meeting		10/23/23, 10:23:36 AM	10/23/23, 10:41:37 AM	18m 1s	Faith.Ekechi@womentechsters.org	Presenter
+Faith Ekechi	Main meeting		10/23/23, 10:42:50 AM	10/23/23, 12:09:57 PM	1h 27m 7s	Faith.Ekechi@womentechsters.org	Presenter
+Faith Ekechi	Breakout room	Room 6	10/23/23, 12:09:55 PM	10/23/23, 1:02:54 PM	52m 58s	Faith.Ekechi@womentechsters.org	Presenter
+Faith Ekechi	Main meeting		10/23/23, 12:12:23 PM	10/23/23, 12:13:13 PM	49s	Faith.Ekechi@womentechsters.org	Presenter
+Faith Ekechi	Main meeting		10/23/23, 1:03:11 PM	10/23/23, 1:44:31 PM	41m 19s	Faith.Ekechi@womentechsters.org	Presenter
+Vida  Naapire	Main meeting		10/23/23, 8:52:57 AM	10/23/23, 12:09:35 PM	3h 16m 38s	VidaNaapire@womentechsters.org	Presenter
+Vida  Naapire	Breakout room	Room 9	10/23/23, 12:09:36 PM	10/23/23, 12:59:17 PM	49m 40s	VidaNaapire@womentechsters.org	Presenter
+Vida  Naapire	Main meeting		10/23/23, 12:59:16 PM	10/23/23, 1:44:31 PM	45m 14s	VidaNaapire@womentechsters.org	Presenter
+Emem Eduoku	Main meeting		10/23/23, 8:53:33 AM	10/23/23, 8:54:54 AM	1m 21s	EmemEduoku@womentechsters.org	Presenter
+Emem Eduoku	Main meeting		10/23/23, 8:56:09 AM	10/23/23, 12:37:39 PM	3h 41m 30s	EmemEduoku@womentechsters.org	Presenter
+Emem Eduoku	Breakout room	Room 12	10/23/23, 12:14:14 PM	10/23/23, 12:37:27 PM	23m 12s	EmemEduoku@womentechsters.org	Presenter
+Emem Eduoku	Main meeting		10/23/23, 12:39:32 PM	10/23/23, 1:44:31 PM	1h 4m 58s	EmemEduoku@womentechsters.org	Presenter
+Gloria Iseghehi	Main meeting		10/23/23, 8:53:44 AM	10/23/23, 11:19:25 AM	2h 25m 40s	GloriaIseghehi@womentechsters.org	Presenter
+Gloria Iseghehi	Main meeting		10/23/23, 11:20:30 AM	10/23/23, 12:09:41 PM	49m 11s	GloriaIseghehi@womentechsters.org	Presenter
+Gloria Iseghehi	Breakout room	Room 9	10/23/23, 12:09:32 PM	10/23/23, 12:59:09 PM	49m 37s	GloriaIseghehi@womentechsters.org	Presenter
+Gloria Iseghehi	Main meeting		10/23/23, 12:24:22 PM	10/23/23, 1:38:29 PM	1h 14m 7s	GloriaIseghehi@womentechsters.org	Presenter
+Raihanat Adewuyi	Main meeting		10/23/23, 8:53:49 AM	10/23/23, 1:44:31 PM	4h 50m 41s	Raihanat.Adewuyi@womentechsters.org	Presenter
+Raihanat Adewuyi	Breakout room	Room 2	10/23/23, 12:09:37 PM	10/23/23, 12:54:21 PM	44m 44s	Raihanat.Adewuyi@womentechsters.org	Presenter
+Raihanat Adewuyi	Breakout room	Room 2	10/23/23, 12:58:27 PM	10/23/23, 12:59:02 PM	34s	Raihanat.Adewuyi@womentechsters.org	Presenter
+Helen Oridupa	Main meeting		10/23/23, 8:54:55 AM	10/23/23, 11:00:56 AM	2h 6m 1s	HelenOridupa@womentechsters.org	Presenter
+Helen Oridupa	Main meeting		10/23/23, 11:18:11 AM	10/23/23, 1:10:32 PM	1h 52m 21s	HelenOridupa@womentechsters.org	Presenter
+Helen Oridupa	Breakout room	Room 1	10/23/23, 12:10:23 PM	10/23/23, 12:53:12 PM	42m 49s	HelenOridupa@womentechsters.org	Presenter
+Goodluck Eze	Main meeting		10/23/23, 8:55:11 AM	10/23/23, 11:01:00 AM	2h 5m 48s	GoodluckEze@womentechsters.org	Presenter
+Goodluck Eze	Main meeting		10/23/23, 11:16:31 AM	10/23/23, 12:09:36 PM	53m 4s	GoodluckEze@womentechsters.org	Presenter
+Goodluck Eze	Breakout room	Room 13	10/23/23, 12:09:37 PM	10/23/23, 12:58:17 PM	48m 39s	GoodluckEze@womentechsters.org	Presenter
+Goodluck Eze	Main meeting		10/23/23, 1:11:43 PM	10/23/23, 1:12:29 PM	45s	GoodluckEze@womentechsters.org	Presenter
+Goodluck Eze	Main meeting		10/23/23, 1:14:52 PM	10/23/23, 1:16:15 PM	1m 23s	GoodluckEze@womentechsters.org	Presenter
+Goodluck Eze	Main meeting		10/23/23, 1:30:00 PM	10/23/23, 1:43:41 PM	13m 40s	GoodluckEze@womentechsters.org	Presenter
+Gift Onuoha	Main meeting		10/23/23, 8:55:45 AM	10/23/23, 11:01:47 AM	2h 6m 1s	GiftOnuoha@womentechsters.org	Presenter
+Gift Onuoha	Main meeting		10/23/23, 11:16:28 AM	10/23/23, 12:09:52 PM	53m 24s	GiftOnuoha@womentechsters.org	Presenter
+Gift Onuoha	Breakout room	Room 5	10/23/23, 12:09:34 PM	10/23/23, 12:55:38 PM	46m 4s	GiftOnuoha@womentechsters.org	Presenter
+Gift Onuoha	Main meeting		10/23/23, 12:55:53 PM	10/23/23, 1:41:11 PM	45m 18s	GiftOnuoha@womentechsters.org	Presenter
+Ruth Bamgbose	Main meeting		10/23/23, 8:56:06 AM	10/23/23, 12:07:28 PM	3h 11m 22s	RuthBamgbose@womentechsters.org	Presenter
+Ruth Bamgbose	Main meeting		10/23/23, 12:24:24 PM	10/23/23, 12:48:54 PM	24m 30s	RuthBamgbose@womentechsters.org	Presenter
+Ruth Bamgbose	Breakout room	Room 11	10/23/23, 12:48:55 PM	10/23/23, 12:59:13 PM	10m 18s	RuthBamgbose@womentechsters.org	Presenter
+Ruth Bamgbose	Main meeting		10/23/23, 12:59:14 PM	10/23/23, 1:08:17 PM	9m 3s	RuthBamgbose@womentechsters.org	Presenter
+Sadiya Idris	Main meeting		10/23/23, 8:57:45 AM	10/23/23, 10:16:55 AM	1h 19m 10s	SadiyaIdris@womentechsters.org	Presenter
+Sadiya Idris	Main meeting		10/23/23, 10:18:20 AM	10/23/23, 10:23:44 AM	5m 23s	SadiyaIdris@womentechsters.org	Presenter
+Anthonia Mbah	Main meeting		10/23/23, 8:57:52 AM	10/23/23, 12:11:42 PM	3h 13m 49s	AnthoniaMbah@womentechsters.org	Presenter
+Anthonia Mbah	Breakout room	Room 4	10/23/23, 12:11:49 PM	10/23/23, 12:52:08 PM	40m 18s	AnthoniaMbah@womentechsters.org	Presenter
+Anthonia Mbah	Main meeting		10/23/23, 12:52:39 PM	10/23/23, 1:44:31 PM	51m 52s	AnthoniaMbah@womentechsters.org	Presenter
+Oluwaseun Adegoke	Main meeting		10/23/23, 8:58:19 AM	10/23/23, 11:57:43 AM	2h 59m 23s	OluwaseunAdegoke@womentechsters.org	Presenter
+Menna Rihan	Main meeting		10/23/23, 8:58:37 AM	10/23/23, 12:09:31 PM	3h 10m 54s	MennaRihan@womentechsters.org	Presenter
+Menna Rihan	Breakout room	Room 14	10/23/23, 12:09:33 PM	10/23/23, 12:48:55 PM	39m 22s	MennaRihan@womentechsters.org	Presenter
+Menna Rihan	Main meeting		10/23/23, 12:49:06 PM	10/23/23, 1:02:17 PM	13m 11s	MennaRihan@womentechsters.org	Presenter
+Bridget Ngonzi	Main meeting		10/23/23, 8:59:06 AM	10/23/23, 12:09:29 PM	3h 10m 22s	Bridget.Ngonzi@womentechsters.org	Presenter
+Bridget Ngonzi	Breakout room	Room 13	10/23/23, 12:09:30 PM	10/23/23, 12:58:49 PM	49m 18s	Bridget.Ngonzi@womentechsters.org	Presenter
+Bridget Ngonzi	Main meeting		10/23/23, 12:58:49 PM	10/23/23, 1:44:23 PM	45m 34s	Bridget.Ngonzi@womentechsters.org	Presenter
+Lois  Ugbe	Main meeting		10/23/23, 8:59:11 AM	10/23/23, 12:09:33 PM	3h 10m 21s	LoisUgbe@womentechsters.org	Presenter
+Lois  Ugbe	Breakout room	Room 9	10/23/23, 12:09:35 PM	10/23/23, 12:58:35 PM	49m	LoisUgbe@womentechsters.org	Presenter
+Lois  Ugbe	Main meeting		10/23/23, 12:58:49 PM	10/23/23, 1:44:31 PM	45m 41s	LoisUgbe@womentechsters.org	Presenter
+Grace  Salawe	Main meeting		10/23/23, 8:59:44 AM	10/23/23, 10:06:48 AM	1h 7m 4s	GraceSalawe@womentechsters.org	Presenter
+Grace  Salawe	Main meeting		10/23/23, 10:09:27 AM	10/23/23, 10:27:15 AM	17m 47s	GraceSalawe@womentechsters.org	Presenter
+Grace  Salawe	Main meeting		10/23/23, 10:28:57 AM	10/23/23, 11:48:09 AM	1h 19m 11s	GraceSalawe@womentechsters.org	Presenter
+Grace  Salawe	Main meeting		10/23/23, 11:49:18 AM	10/23/23, 12:09:39 PM	20m 20s	GraceSalawe@womentechsters.org	Presenter
+Grace  Salawe	Breakout room	Room 5	10/23/23, 12:09:39 PM	10/23/23, 12:42:33 PM	32m 53s	GraceSalawe@womentechsters.org	Presenter
+Grace  Salawe	Breakout room	Room 5	10/23/23, 12:45:49 PM	10/23/23, 12:55:19 PM	9m 29s	GraceSalawe@womentechsters.org	Presenter
+Grace  Salawe	Main meeting		10/23/23, 12:51:18 PM	10/23/23, 12:51:47 PM	29s	GraceSalawe@womentechsters.org	Presenter
+Grace  Salawe	Main meeting		10/23/23, 12:53:45 PM	10/23/23, 1:31:51 PM	38m 5s	GraceSalawe@womentechsters.org	Presenter
+Christiana Osedi	Main meeting		10/23/23, 8:59:52 AM	10/23/23, 10:15:26 AM	1h 15m 34s	ChristianaOsedi@womentechsters.org	Presenter
+Christiana Osedi	Main meeting		10/23/23, 10:17:22 AM	10/23/23, 10:26:44 AM	9m 21s	ChristianaOsedi@womentechsters.org	Presenter
+Chiamaka  Odugu	Main meeting		10/23/23, 9:00:10 AM	10/23/23, 11:10:05 AM	2h 9m 54s	ChiamakaOdugu@womentechsters.org	Presenter
+Chiamaka  Odugu	Main meeting		10/23/23, 11:15:20 AM	10/23/23, 12:09:43 PM	54m 22s	ChiamakaOdugu@womentechsters.org	Presenter
+Chiamaka  Odugu	Breakout room	Room 8	10/23/23, 12:09:45 PM	10/23/23, 12:48:33 PM	38m 47s	ChiamakaOdugu@womentechsters.org	Presenter
+Chiamaka  Odugu	Main meeting		10/23/23, 12:49:05 PM	10/23/23, 1:43:47 PM	54m 42s	ChiamakaOdugu@womentechsters.org	Presenter
+Pipeloluwa Aremo	Main meeting		10/23/23, 9:00:26 AM	10/23/23, 12:11:20 PM	3h 10m 53s	PipeloluwaAremo@womentechsters.org	Presenter
+Pipeloluwa Aremo	Breakout room	Room 1	10/23/23, 12:09:30 PM	10/23/23, 12:10:14 PM	43s	PipeloluwaAremo@womentechsters.org	Presenter
+Pipeloluwa Aremo	Breakout room	Room 1	10/23/23, 12:11:26 PM	10/23/23, 12:53:24 PM	41m 58s	PipeloluwaAremo@womentechsters.org	Presenter
+Pipeloluwa Aremo	Main meeting		10/23/23, 12:53:54 PM	10/23/23, 1:39:51 PM	45m 57s	PipeloluwaAremo@womentechsters.org	Presenter
+Flora Nwakpa	Main meeting		10/23/23, 9:01:02 AM	10/23/23, 12:09:57 PM	3h 8m 55s	Flora.Nwakpa@womentechsters.org	Presenter
+Flora Nwakpa	Breakout room	Room 10	10/23/23, 12:10:09 PM	10/23/23, 12:57:59 PM	47m 49s	Flora.Nwakpa@womentechsters.org	Presenter
+Flora Nwakpa	Main meeting		10/23/23, 12:58:26 PM	10/23/23, 1:38:31 PM	40m 4s	Flora.Nwakpa@womentechsters.org	Presenter
+Oluwatoyin  Oredein	Main meeting		10/23/23, 9:01:05 AM	10/23/23, 11:01:25 AM	2h 19s	Oluwatoyin.Oredein@womentechsters.org	Presenter
+Oluwatoyin  Oredein	Main meeting		10/23/23, 11:15:30 AM	10/23/23, 12:09:34 PM	54m 3s	Oluwatoyin.Oredein@womentechsters.org	Presenter
+Oluwatoyin  Oredein	Breakout room	Room 8	10/23/23, 12:09:35 PM	10/23/23, 12:48:34 PM	38m 58s	Oluwatoyin.Oredein@womentechsters.org	Presenter
+Oluwatoyin  Oredein	Main meeting		10/23/23, 12:49:01 PM	10/23/23, 1:40:56 PM	51m 55s	Oluwatoyin.Oredein@womentechsters.org	Presenter
+Kelechi Agwu	Main meeting		10/23/23, 9:01:10 AM	10/23/23, 12:10:01 PM	3h 8m 51s	KelechiAgwu@womentechsters.org	Presenter
+Kelechi Agwu	Main meeting		10/23/23, 12:14:10 PM	10/23/23, 1:29:42 PM	1h 15m 32s	KelechiAgwu@womentechsters.org	Presenter
+Kelechi Agwu	Breakout room	Room 5	10/23/23, 12:16:12 PM	10/23/23, 12:55:22 PM	39m 10s	KelechiAgwu@womentechsters.org	Presenter
+Aminat Lawal	Main meeting		10/23/23, 9:01:20 AM	10/23/23, 11:02:01 AM	2h 40s	Aminat.Lawal@womentechsters.org	Presenter
+Aminat Lawal	Main meeting		10/23/23, 11:12:17 AM	10/23/23, 12:09:53 PM	57m 36s	Aminat.Lawal@womentechsters.org	Presenter
+Aminat Lawal	Breakout room	Room 8	10/23/23, 12:09:28 PM	10/23/23, 12:48:28 PM	38m 59s	Aminat.Lawal@womentechsters.org	Presenter
+Aminat Lawal	Main meeting		10/23/23, 12:47:21 PM	10/23/23, 1:40:17 PM	52m 56s	Aminat.Lawal@womentechsters.org	Presenter
+Zipeta Paul	Main meeting		10/23/23, 9:01:29 AM	10/23/23, 12:09:40 PM	3h 8m 11s	ZipetaPaul@womentechsters.org	Presenter
+Zipeta Paul	Breakout room	Room 3	10/23/23, 12:09:43 PM	10/23/23, 12:44:24 PM	34m 41s	ZipetaPaul@womentechsters.org	Presenter
+Zipeta Paul	Main meeting		10/23/23, 12:44:37 PM	10/23/23, 1:31:10 PM	46m 32s	ZipetaPaul@womentechsters.org	Presenter
+Sumayyah  Muhibudeen	Main meeting		10/23/23, 9:01:31 AM	10/23/23, 9:36:10 AM	34m 39s	Sumayyah.Muhibudeen@womentechsters.org	Presenter
+Sumayyah  Muhibudeen	Main meeting		10/23/23, 9:37:58 AM	10/23/23, 12:09:37 PM	2h 31m 38s	Sumayyah.Muhibudeen@womentechsters.org	Presenter
+Sumayyah  Muhibudeen	Breakout room	Room 13	10/23/23, 12:09:35 PM	10/23/23, 12:58:41 PM	49m 5s	Sumayyah.Muhibudeen@womentechsters.org	Presenter
+Sumayyah  Muhibudeen	Main meeting		10/23/23, 12:58:40 PM	10/23/23, 1:44:31 PM	45m 51s	Sumayyah.Muhibudeen@womentechsters.org	Presenter
+Stella Ladegbaye	Main meeting		10/23/23, 9:01:44 AM	10/23/23, 9:25:42 AM	23m 57s	StellaLadegbaye@womentechsters.org	Presenter
+Stella Ladegbaye	Main meeting		10/23/23, 9:35:29 AM	10/23/23, 9:56:18 AM	20m 49s	StellaLadegbaye@womentechsters.org	Presenter
+Stella Ladegbaye	Main meeting		10/23/23, 9:57:30 AM	10/23/23, 10:29:53 AM	32m 22s	StellaLadegbaye@womentechsters.org	Presenter
+Stella Ladegbaye	Main meeting		10/23/23, 10:31:40 AM	10/23/23, 10:39:08 AM	7m 28s	StellaLadegbaye@womentechsters.org	Presenter
+Stella Ladegbaye	Main meeting		10/23/23, 10:50:00 AM	10/23/23, 11:08:33 AM	18m 32s	StellaLadegbaye@womentechsters.org	Presenter
+Stella Ladegbaye	Main meeting		10/23/23, 11:11:12 AM	10/23/23, 11:46:22 AM	35m 9s	StellaLadegbaye@womentechsters.org	Presenter
+Stella Ladegbaye	Main meeting		10/23/23, 11:47:45 AM	10/23/23, 12:09:36 PM	21m 51s	StellaLadegbaye@womentechsters.org	Presenter
+Stella Ladegbaye	Breakout room	Room 10	10/23/23, 12:09:34 PM	10/23/23, 12:56:53 PM	47m 19s	StellaLadegbaye@womentechsters.org	Presenter
+Stella Ladegbaye	Main meeting		10/23/23, 12:57:26 PM	10/23/23, 1:37:32 PM	40m 6s	StellaLadegbaye@womentechsters.org	Presenter
+Iyanuoluwa Olawoye	Main meeting		10/23/23, 9:01:47 AM	10/23/23, 12:09:38 PM	3h 7m 50s	Iyanuoluwa.Olawoye@womentechsters.org	Presenter
+Iyanuoluwa Olawoye	Breakout room	Room 11	10/23/23, 12:09:39 PM	10/23/23, 12:24:41 PM	15m 2s	Iyanuoluwa.Olawoye@womentechsters.org	Presenter
+Iyanuoluwa Olawoye	Main meeting		10/23/23, 12:25:32 PM	10/23/23, 12:26:30 PM	57s	Iyanuoluwa.Olawoye@womentechsters.org	Presenter
+Iyanuoluwa Olawoye	Breakout room	Room 11	10/23/23, 12:26:28 PM	10/23/23, 12:27:42 PM	1m 13s	Iyanuoluwa.Olawoye@womentechsters.org	Presenter
+Iyanuoluwa Olawoye	Breakout room	Room 11	10/23/23, 12:40:04 PM	10/23/23, 12:40:21 PM	16s	Iyanuoluwa.Olawoye@womentechsters.org	Presenter
+Ebere Adekogbe	Main meeting		10/23/23, 9:01:52 AM	10/23/23, 12:09:32 PM	3h 7m 40s	EbereAdekogbe@womentechsters.org	Presenter
+Ebere Adekogbe	Breakout room	Room 13	10/23/23, 12:09:34 PM	10/23/23, 12:58:50 PM	49m 15s	EbereAdekogbe@womentechsters.org	Presenter
+Ebere Adekogbe	Main meeting		10/23/23, 12:58:51 PM	10/23/23, 1:38:45 PM	39m 53s	EbereAdekogbe@womentechsters.org	Presenter
+Jochebed Ibrahim	Main meeting		10/23/23, 9:01:53 AM	10/23/23, 9:55:55 AM	54m 1s	JochebedIbrahim@womentechsters.org	Presenter
+Jochebed Ibrahim	Main meeting		10/23/23, 9:56:55 AM	10/23/23, 12:09:38 PM	2h 12m 42s	JochebedIbrahim@womentechsters.org	Presenter
+Jochebed Ibrahim	Breakout room	Room 3	10/23/23, 12:10:06 PM	10/23/23, 12:44:11 PM	34m 4s	JochebedIbrahim@womentechsters.org	Presenter
+Jochebed Ibrahim	Main meeting		10/23/23, 12:34:43 PM	10/23/23, 12:35:18 PM	34s	JochebedIbrahim@womentechsters.org	Presenter
+Jochebed Ibrahim	Main meeting		10/23/23, 12:42:43 PM	10/23/23, 12:43:11 PM	27s	JochebedIbrahim@womentechsters.org	Presenter
+Jochebed Ibrahim	Main meeting		10/23/23, 12:44:25 PM	10/23/23, 1:05:03 PM	20m 37s	JochebedIbrahim@womentechsters.org	Presenter
+Jochebed Ibrahim	Breakout room	Room 3	10/23/23, 12:45:16 PM	10/23/23, 12:45:28 PM	11s	JochebedIbrahim@womentechsters.org	Presenter
+Jochebed Ibrahim	Main meeting		10/23/23, 1:06:10 PM	10/23/23, 1:08:31 PM	2m 20s	JochebedIbrahim@womentechsters.org	Presenter
+Jochebed Ibrahim	Main meeting		10/23/23, 1:10:28 PM	10/23/23, 1:17:13 PM	6m 44s	JochebedIbrahim@womentechsters.org	Presenter
+Jochebed Ibrahim	Main meeting		10/23/23, 1:27:52 PM	10/23/23, 1:31:48 PM	3m 55s	JochebedIbrahim@womentechsters.org	Presenter
+Eucharia Okoye	Main meeting		10/23/23, 9:01:55 AM	10/23/23, 12:21:51 PM	3h 19m 55s	EuchariaOkoye@womentechsters.org	Presenter
+Eucharia Okoye	Breakout room	Room 12	10/23/23, 12:21:50 PM	10/23/23, 12:47:51 PM	26m 1s	EuchariaOkoye@womentechsters.org	Presenter
+Eucharia Okoye	Breakout room	Room 12	10/23/23, 12:50:35 PM	10/23/23, 12:58:40 PM	8m 4s	EuchariaOkoye@womentechsters.org	Presenter
+Eucharia Okoye	Main meeting		10/23/23, 12:58:38 PM	10/23/23, 1:44:00 PM	45m 21s	EuchariaOkoye@womentechsters.org	Presenter
+Shulammite Ughojo	Main meeting		10/23/23, 9:02:03 AM	10/23/23, 9:51:56 AM	49m 53s	ShulammiteUghojo@womentechsters.org	Presenter
+Shulammite Ughojo	Main meeting		10/23/23, 11:12:39 AM	10/23/23, 12:09:33 PM	56m 53s	ShulammiteUghojo@womentechsters.org	Presenter
+Shulammite Ughojo	Breakout room	Room 3	10/23/23, 12:09:31 PM	10/23/23, 12:49:58 PM	40m 26s	ShulammiteUghojo@womentechsters.org	Presenter
+Shulammite Ughojo	Main meeting		10/23/23, 12:50:25 PM	10/23/23, 1:38:32 PM	48m 6s	ShulammiteUghojo@womentechsters.org	Presenter
+Precious Gbodii	Main meeting		10/23/23, 9:02:25 AM	10/23/23, 12:09:30 PM	3h 7m 4s	PreciousGbodii@womentechsters.org	Presenter
+Precious Gbodii	Breakout room	Room 2	10/23/23, 12:09:31 PM	10/23/23, 12:51:32 PM	42m 1s	PreciousGbodii@womentechsters.org	Presenter
+Precious Gbodii	Main meeting		10/23/23, 12:51:49 PM	10/23/23, 1:18:34 PM	26m 44s	PreciousGbodii@womentechsters.org	Presenter
+Blessing Effiong-John	Main meeting		10/23/23, 9:03:00 AM	10/23/23, 12:09:36 PM	3h 6m 36s	BlessingEffiong-John@womentechsters.org	Presenter
+Blessing Effiong-John	Breakout room	Room 5	10/23/23, 12:09:34 PM	10/23/23, 12:55:48 PM	46m 14s	BlessingEffiong-John@womentechsters.org	Presenter
+Blessing Effiong-John	Main meeting		10/23/23, 1:04:12 PM	10/23/23, 1:38:20 PM	34m 8s	BlessingEffiong-John@womentechsters.org	Presenter
+Oluwalayomi Lawore	Main meeting		10/23/23, 9:03:11 AM	10/23/23, 10:14:54 AM	1h 11m 42s	OluwalayomiLawore@womentechsters.org	Presenter
+Oluwalayomi Lawore	Main meeting		10/23/23, 10:24:28 AM	10/23/23, 11:01:34 AM	37m 5s	OluwalayomiLawore@womentechsters.org	Presenter
+Oluwalayomi Lawore	Main meeting		10/23/23, 11:29:33 AM	10/23/23, 12:09:41 PM	40m 8s	OluwalayomiLawore@womentechsters.org	Presenter
+Oluwalayomi Lawore	Breakout room	Room 5	10/23/23, 12:09:35 PM	10/23/23, 12:55:33 PM	45m 58s	OluwalayomiLawore@womentechsters.org	Presenter
+Oluwalayomi Lawore	Main meeting		10/23/23, 12:56:01 PM	10/23/23, 1:35:28 PM	39m 26s	OluwalayomiLawore@womentechsters.org	Presenter
+Zainab Abdulmumin	Main meeting		10/23/23, 9:03:41 AM	10/23/23, 12:09:33 PM	3h 5m 51s	ZainabAbdulmumin@womentechsters.org	Presenter
+Zainab Abdulmumin	Breakout room	Room 6	10/23/23, 12:09:31 PM	10/23/23, 1:00:31 PM	50m 59s	ZainabAbdulmumin@womentechsters.org	Presenter
+Zainab Abdulmumin	Main meeting		10/23/23, 1:00:59 PM	10/23/23, 1:30:39 PM	29m 39s	ZainabAbdulmumin@womentechsters.org	Presenter
+Betelhem Derse	Main meeting		10/23/23, 9:04:01 AM	10/23/23, 12:17:26 PM	3h 13m 24s	Betelhem.Derse@womentechsters.org	Presenter
+Betelhem Derse	Breakout room	Room 11	10/23/23, 12:09:36 PM	10/23/23, 12:10:29 PM	52s	Betelhem.Derse@womentechsters.org	Presenter
+Betelhem Derse	Breakout room	Room 11	10/23/23, 12:17:25 PM	10/23/23, 12:59:24 PM	41m 59s	Betelhem.Derse@womentechsters.org	Presenter
+Betelhem Derse	Main meeting		10/23/23, 1:21:33 PM	10/23/23, 1:44:31 PM	22m 57s	Betelhem.Derse@womentechsters.org	Presenter
+Adaobi  Chuma-Okeke	Main meeting		10/23/23, 9:04:06 AM	10/23/23, 11:08:33 AM	2h 4m 26s	Adaobi.Chuma-Okeke@womentechsters.org	Presenter
+Adaobi  Chuma-Okeke	Main meeting		10/23/23, 11:10:48 AM	10/23/23, 12:10:23 PM	59m 34s	Adaobi.Chuma-Okeke@womentechsters.org	Presenter
+Adaobi  Chuma-Okeke	Breakout room	Room 10	10/23/23, 12:10:24 PM	10/23/23, 12:56:59 PM	46m 34s	Adaobi.Chuma-Okeke@womentechsters.org	Presenter
+Adaobi  Chuma-Okeke	Main meeting		10/23/23, 12:28:59 PM	10/23/23, 1:43:42 PM	1h 14m 43s	Adaobi.Chuma-Okeke@womentechsters.org	Presenter
+Alice Odamtten	Main meeting		10/23/23, 9:04:26 AM	10/23/23, 12:09:36 PM	3h 5m 9s	AliceOdamtten@womentechsters.org	Presenter
+Alice Odamtten	Breakout room	Room 4	10/23/23, 12:09:43 PM	10/23/23, 12:52:02 PM	42m 19s	AliceOdamtten@womentechsters.org	Presenter
+Alice Odamtten	Main meeting		10/23/23, 12:52:39 PM	10/23/23, 1:37:28 PM	44m 49s	AliceOdamtten@womentechsters.org	Presenter
+Nnenwogo Nwanja	Main meeting		10/23/23, 9:04:49 AM	10/23/23, 10:10:04 AM	1h 5m 14s	NnenwogoNwanja@womentechsters.org	Presenter
+Chioma Nnadi	Main meeting		10/23/23, 9:04:51 AM	10/23/23, 12:09:46 PM	3h 4m 54s	ChiomaNnadi@womentechsters.org	Presenter
+Chioma Nnadi	Breakout room	Room 11	10/23/23, 12:09:53 PM	10/23/23, 12:59:18 PM	49m 25s	ChiomaNnadi@womentechsters.org	Presenter
+Chioma Nnadi	Main meeting		10/23/23, 12:59:23 PM	10/23/23, 1:09:03 PM	9m 39s	ChiomaNnadi@womentechsters.org	Presenter
+Chioma Nnadi	Main meeting		10/23/23, 1:10:44 PM	10/23/23, 1:44:31 PM	33m 46s	ChiomaNnadi@womentechsters.org	Presenter
+Simbiat Awoyemi	Main meeting		10/23/23, 9:05:05 AM	10/23/23, 12:09:39 PM	3h 4m 34s	SimbiatAwoyemi@womentechsters.org	Presenter
+Simbiat Awoyemi	Breakout room	Room 2	10/23/23, 12:09:41 PM	10/23/23, 12:50:59 PM	41m 18s	SimbiatAwoyemi@womentechsters.org	Presenter
+Simbiat Awoyemi	Main meeting		10/23/23, 12:51:20 PM	10/23/23, 1:40:54 PM	49m 34s	SimbiatAwoyemi@womentechsters.org	Presenter
+Simbiat Awoyemi	Breakout room	Room 2	10/23/23, 12:52:06 PM	10/23/23, 12:59:03 PM	6m 57s	SimbiatAwoyemi@womentechsters.org	Presenter
+Ogechukwu  Igbokwe	Main meeting		10/23/23, 9:05:06 AM	10/23/23, 11:09:23 AM	2h 4m 16s	Ogechukwu.Igbokwe@womentechsters.org	Presenter
+Ogechukwu  Igbokwe	Main meeting		10/23/23, 11:32:55 AM	10/23/23, 12:09:43 PM	36m 48s	Ogechukwu.Igbokwe@womentechsters.org	Presenter
+Ogechukwu  Igbokwe	Breakout room	Room 10	10/23/23, 12:09:44 PM	10/23/23, 12:57:10 PM	47m 26s	Ogechukwu.Igbokwe@womentechsters.org	Presenter
+Ogechukwu  Igbokwe	Main meeting		10/23/23, 12:57:11 PM	10/23/23, 1:44:31 PM	47m 19s	Ogechukwu.Igbokwe@womentechsters.org	Presenter
+Victoria  Olayode	Main meeting		10/23/23, 9:05:09 AM	10/23/23, 12:10:09 PM	3h 5m	VictoriaOlayode@womentechsters.org	Presenter
+Victoria  Olayode	Breakout room	Room 14	10/23/23, 12:10:10 PM	10/23/23, 12:35:19 PM	25m 8s	VictoriaOlayode@womentechsters.org	Presenter
+Feyisara  Agiri	Main meeting		10/23/23, 9:05:19 AM	10/23/23, 10:51:46 AM	1h 46m 27s	FeyisaraAgiri@womentechsters.org	Presenter
+Feyisara  Agiri	Main meeting		10/23/23, 10:55:56 AM	10/23/23, 12:09:37 PM	1h 13m 41s	FeyisaraAgiri@womentechsters.org	Presenter
+Feyisara  Agiri	Breakout room	Room 7	10/23/23, 12:09:34 PM	10/23/23, 12:59:15 PM	49m 41s	FeyisaraAgiri@womentechsters.org	Presenter
+Feyisara  Agiri	Main meeting		10/23/23, 12:59:04 PM	10/23/23, 1:44:25 PM	45m 20s	FeyisaraAgiri@womentechsters.org	Presenter
+Annah Tumworobere	Main meeting		10/23/23, 9:05:20 AM	10/23/23, 9:39:36 AM	34m 16s	AnnahTumworobere@womentechsters.org	Presenter
+Annah Tumworobere	Main meeting		10/23/23, 9:41:46 AM	10/23/23, 9:57:44 AM	15m 57s	AnnahTumworobere@womentechsters.org	Presenter
+Annah Tumworobere	Main meeting		10/23/23, 12:03:55 PM	10/23/23, 12:09:42 PM	5m 46s	AnnahTumworobere@womentechsters.org	Presenter
+Annah Tumworobere	Breakout room	Room 9	10/23/23, 12:09:45 PM	10/23/23, 12:17:11 PM	7m 25s	AnnahTumworobere@womentechsters.org	Presenter
+Annah Tumworobere	Main meeting		10/23/23, 12:17:48 PM	10/23/23, 12:21:25 PM	3m 37s	AnnahTumworobere@womentechsters.org	Presenter
+Annah Tumworobere	Breakout room	Room 9	10/23/23, 12:18:50 PM	10/23/23, 12:59:14 PM	40m 24s	AnnahTumworobere@womentechsters.org	Presenter
+Annah Tumworobere	Main meeting		10/23/23, 12:59:16 PM	10/23/23, 1:41:02 PM	41m 46s	AnnahTumworobere@womentechsters.org	Presenter
+Glory Glory	Main meeting		10/23/23, 9:05:39 AM	10/23/23, 9:12:26 AM	6m 46s	GloryGlory@womentechsters.org	Presenter
+Glory Glory	Main meeting		10/23/23, 9:44:56 AM	10/23/23, 10:00:33 AM	15m 36s	GloryGlory@womentechsters.org	Presenter
+Nana Adwoa Mensah	Main meeting		10/23/23, 9:05:43 AM	10/23/23, 12:09:27 PM	3h 3m 43s	NanaAdwoaMensah@womentechsters.org	Presenter
+Nana Adwoa Mensah	Breakout room	Room 13	10/23/23, 12:09:36 PM	10/23/23, 12:58:50 PM	49m 13s	NanaAdwoaMensah@womentechsters.org	Presenter
+Nana Adwoa Mensah	Main meeting		10/23/23, 12:58:54 PM	10/23/23, 1:40:56 PM	42m 1s	NanaAdwoaMensah@womentechsters.org	Presenter
+Dorcas Samuel	Main meeting		10/23/23, 9:05:47 AM	10/23/23, 11:14:40 AM	2h 8m 52s	DorcasSamuel@womentechsters.org	Presenter
+Dorcas Samuel	Main meeting		10/23/23, 11:16:51 AM	10/23/23, 12:09:32 PM	52m 41s	DorcasSamuel@womentechsters.org	Presenter
+Dorcas Samuel	Breakout room	Room 6	10/23/23, 12:09:31 PM	10/23/23, 12:19:44 PM	10m 13s	DorcasSamuel@womentechsters.org	Presenter
+Dorcas Samuel	Main meeting		10/23/23, 12:21:00 PM	10/23/23, 12:21:37 PM	37s	DorcasSamuel@womentechsters.org	Presenter
+Dorcas Samuel	Breakout room	Room 6	10/23/23, 12:21:36 PM	10/23/23, 1:01:44 PM	40m 7s	DorcasSamuel@womentechsters.org	Presenter
+Dorcas Samuel	Main meeting		10/23/23, 1:02:00 PM	10/23/23, 1:30:54 PM	28m 54s	DorcasSamuel@womentechsters.org	Presenter
+Olaide Alabi	Main meeting		10/23/23, 9:06:12 AM	10/23/23, 12:09:34 PM	3h 3m 21s	OlaideAlabi@womentechsters.org	Presenter
+Olaide Alabi	Breakout room	Room 14	10/23/23, 12:09:33 PM	10/23/23, 12:48:32 PM	38m 58s	OlaideAlabi@womentechsters.org	Presenter
+Olaide Alabi	Main meeting		10/23/23, 12:48:56 PM	10/23/23, 1:30:45 PM	41m 48s	OlaideAlabi@womentechsters.org	Presenter
+Jemilah  Tajudeen	Main meeting		10/23/23, 9:06:19 AM	10/23/23, 11:00:56 AM	1h 54m 36s	JemilahTajudeen@womentechsters.org	Presenter
+Jemilah  Tajudeen	Main meeting		10/23/23, 11:16:51 AM	10/23/23, 12:09:35 PM	52m 43s	JemilahTajudeen@womentechsters.org	Presenter
+Jemilah  Tajudeen	Breakout room	Room 12	10/23/23, 12:09:32 PM	10/23/23, 12:10:40 PM	1m 8s	JemilahTajudeen@womentechsters.org	Presenter
+Jemilah  Tajudeen	Main meeting		10/23/23, 12:13:07 PM	10/23/23, 12:15:22 PM	2m 14s	JemilahTajudeen@womentechsters.org	Presenter
+Jemilah  Tajudeen	Breakout room	Room 12	10/23/23, 12:15:20 PM	10/23/23, 12:55:09 PM	39m 49s	JemilahTajudeen@womentechsters.org	Presenter
+Jemilah  Tajudeen	Main meeting		10/23/23, 1:11:26 PM	10/23/23, 1:41:04 PM	29m 37s	JemilahTajudeen@womentechsters.org	Presenter
+Kafayat Kazeem	Main meeting		10/23/23, 9:06:22 AM	10/23/23, 11:01:21 AM	1h 54m 58s	Kafayat.Kazeem@womentechsters.org	Presenter
+Kafayat Kazeem	Main meeting		10/23/23, 11:36:12 AM	10/23/23, 1:31:17 PM	1h 55m 5s	Kafayat.Kazeem@womentechsters.org	Presenter
+Kafayat Kazeem	Breakout room	Room 7	10/23/23, 12:09:33 PM	10/23/23, 12:59:50 PM	50m 16s	Kafayat.Kazeem@womentechsters.org	Presenter
+Victoria Oyekunle	Main meeting		10/23/23, 9:06:30 AM	10/23/23, 10:26:12 AM	1h 19m 41s	Victoria.Oyekunle@womentechsters.org	Presenter
+Victoria Oyekunle	Main meeting		10/23/23, 10:28:44 AM	10/23/23, 12:09:37 PM	1h 40m 52s	Victoria.Oyekunle@womentechsters.org	Presenter
+Victoria Oyekunle	Breakout room	Room 11	10/23/23, 12:09:34 PM	10/23/23, 12:59:03 PM	49m 28s	Victoria.Oyekunle@womentechsters.org	Presenter
+Victoria Oyekunle	Main meeting		10/23/23, 12:21:14 PM	10/23/23, 12:21:23 PM	8s	Victoria.Oyekunle@womentechsters.org	Presenter
+Victoria Oyekunle	Main meeting		10/23/23, 12:59:01 PM	10/23/23, 1:44:31 PM	45m 30s	Victoria.Oyekunle@womentechsters.org	Presenter
+Oluwayemi Sanumi	Main meeting		10/23/23, 9:07:04 AM	10/23/23, 11:09:48 AM	2h 2m 43s	OluwayemiSanumi@womentechsters.org	Presenter
+Oluwayemi Sanumi	Main meeting		10/23/23, 11:22:03 AM	10/23/23, 12:09:42 PM	47m 38s	OluwayemiSanumi@womentechsters.org	Presenter
+Oluwayemi Sanumi	Breakout room	Room 12	10/23/23, 12:09:31 PM	10/23/23, 12:58:46 PM	49m 14s	OluwayemiSanumi@womentechsters.org	Presenter
+Oluwayemi Sanumi	Main meeting		10/23/23, 12:58:37 PM	10/23/23, 1:19:07 PM	20m 29s	OluwayemiSanumi@womentechsters.org	Presenter
+Oluwayemi Sanumi	Main meeting		10/23/23, 1:26:34 PM	10/23/23, 1:29:31 PM	2m 56s	OluwayemiSanumi@womentechsters.org	Presenter
+Wak´Oleva  Maia	Main meeting		10/23/23, 9:07:35 AM	10/23/23, 12:09:44 PM	3h 2m 8s	WakOlevaMaia@womentechsters.org	Presenter
+Wak´Oleva  Maia	Breakout room	Room 10	10/23/23, 12:09:44 PM	10/23/23, 12:57:10 PM	47m 25s	WakOlevaMaia@womentechsters.org	Presenter
+Wak´Oleva  Maia	Main meeting		10/23/23, 12:57:10 PM	10/23/23, 1:44:31 PM	47m 20s	WakOlevaMaia@womentechsters.org	Presenter
+Olawunmi Olabisi	Main meeting		10/23/23, 9:08:28 AM	10/23/23, 11:03:16 AM	1h 54m 47s	Olawunmi.Olabisi@womentechsters.org	Presenter
+Olawunmi Olabisi	Main meeting		10/23/23, 11:11:18 AM	10/23/23, 12:09:34 PM	58m 16s	Olawunmi.Olabisi@womentechsters.org	Presenter
+Olawunmi Olabisi	Breakout room	Room 4	10/23/23, 12:09:32 PM	10/23/23, 12:51:55 PM	42m 23s	Olawunmi.Olabisi@womentechsters.org	Presenter
+Olawunmi Olabisi	Main meeting		10/23/23, 12:51:52 PM	10/23/23, 1:31:48 PM	39m 55s	Olawunmi.Olabisi@womentechsters.org	Presenter
+Elizabeth  Ani	Main meeting		10/23/23, 9:08:29 AM	10/23/23, 9:29:43 AM	21m 13s	ElizabethAni@womentechsters.org	Presenter
+Elizabeth  Ani	Main meeting		10/23/23, 9:43:52 AM	10/23/23, 11:04:07 AM	1h 20m 14s	ElizabethAni@womentechsters.org	Presenter
+Elizabeth  Ani	Main meeting		10/23/23, 11:17:32 AM	10/23/23, 11:31:46 AM	14m 13s	ElizabethAni@womentechsters.org	Presenter
+Elizabeth  Ani	Main meeting		10/23/23, 11:33:48 AM	10/23/23, 12:10:06 PM	36m 17s	ElizabethAni@womentechsters.org	Presenter
+Elizabeth  Ani	Breakout room	Room 6	10/23/23, 12:10:18 PM	10/23/23, 12:21:17 PM	10m 59s	ElizabethAni@womentechsters.org	Presenter
+Elizabeth  Ani	Main meeting		10/23/23, 12:22:37 PM	10/23/23, 12:24:57 PM	2m 19s	ElizabethAni@womentechsters.org	Presenter
+Elizabeth  Ani	Breakout room	Room 6	10/23/23, 12:24:54 PM	10/23/23, 1:00:27 PM	35m 33s	ElizabethAni@womentechsters.org	Presenter
+Elizabeth  Ani	Main meeting		10/23/23, 1:00:34 PM	10/23/23, 1:43:56 PM	43m 22s	ElizabethAni@womentechsters.org	Presenter
+Onoriode  Iwema	Main meeting		10/23/23, 9:09:16 AM	10/23/23, 11:04:10 AM	1h 54m 54s	OnoriodeIwema@womentechsters.org	Presenter
+Onoriode  Iwema	Main meeting		10/23/23, 11:17:20 AM	10/23/23, 12:09:45 PM	52m 25s	OnoriodeIwema@womentechsters.org	Presenter
+Onoriode  Iwema	Breakout room	Room 14	10/23/23, 12:09:37 PM	10/23/23, 12:49:11 PM	39m 34s	OnoriodeIwema@womentechsters.org	Presenter
+Onoriode  Iwema	Main meeting		10/23/23, 12:48:59 PM	10/23/23, 1:41:03 PM	52m 3s	OnoriodeIwema@womentechsters.org	Presenter
+Onoriode  Iwema	Main meeting		10/23/23, 1:42:20 PM	10/23/23, 1:43:46 PM	1m 26s	OnoriodeIwema@womentechsters.org	Presenter
+Kareen  Ajatiton	Main meeting		10/23/23, 9:09:47 AM	10/23/23, 12:09:38 PM	2h 59m 51s	Kareen.Ajatiton@womentechsters.org	Presenter
+Kareen  Ajatiton	Breakout room	Room 11	10/23/23, 12:09:36 PM	10/23/23, 12:59:02 PM	49m 26s	Kareen.Ajatiton@womentechsters.org	Presenter
+Kareen  Ajatiton	Main meeting		10/23/23, 12:59:00 PM	10/23/23, 1:35:40 PM	36m 39s	Kareen.Ajatiton@womentechsters.org	Presenter
+Nina Spio Quansah	Main meeting		10/23/23, 9:09:56 AM	10/23/23, 9:13:52 AM	3m 55s	Nina.SpioQuansah@womentechsters.org	Presenter
+Nina Spio Quansah	Main meeting		10/23/23, 9:15:56 AM	10/23/23, 1:39:13 PM	4h 23m 16s	Nina.SpioQuansah@womentechsters.org	Presenter
+Nina Spio Quansah	Breakout room	Room 1	10/23/23, 12:09:40 PM	10/23/23, 12:49:20 PM	39m 39s	Nina.SpioQuansah@womentechsters.org	Presenter
+Paskalia Akinyi	Main meeting		10/23/23, 9:10:16 AM	10/23/23, 9:36:34 AM	26m 18s	Paskalia.Akinyi@womentechsters.org	Presenter
+Paskalia Akinyi	Main meeting		10/23/23, 9:45:50 AM	10/23/23, 10:17:50 AM	31m 59s	Paskalia.Akinyi@womentechsters.org	Presenter
+Paskalia Akinyi	Main meeting		10/23/23, 10:47:47 AM	10/23/23, 12:09:34 PM	1h 21m 47s	Paskalia.Akinyi@womentechsters.org	Presenter
+Paskalia Akinyi	Breakout room	Room 14	10/23/23, 12:09:33 PM	10/23/23, 12:48:57 PM	39m 24s	Paskalia.Akinyi@womentechsters.org	Presenter
+Paskalia Akinyi	Main meeting		10/23/23, 12:49:11 PM	10/23/23, 1:38:05 PM	48m 53s	Paskalia.Akinyi@womentechsters.org	Presenter
+Queen Chuku	Main meeting		10/23/23, 9:11:15 AM	10/23/23, 12:09:40 PM	2h 58m 25s	Queen.Chuku@womentechsters.org	Presenter
+Queen Chuku	Breakout room	Room 3	10/23/23, 12:09:49 PM	10/23/23, 12:44:58 PM	35m 8s	Queen.Chuku@womentechsters.org	Presenter
+Queen Chuku	Main meeting		10/23/23, 12:45:25 PM	10/23/23, 1:32:31 PM	47m 6s	Queen.Chuku@womentechsters.org	Presenter
+Kofoworola Cole	Main meeting		10/23/23, 9:11:22 AM	10/23/23, 9:30:56 AM	19m 33s	KofoworolaCole@womentechsters.org	Presenter
+Kofoworola Cole	Main meeting		10/23/23, 9:48:23 AM	10/23/23, 11:01:00 AM	1h 12m 36s	KofoworolaCole@womentechsters.org	Presenter
+Kofoworola Cole	Main meeting		10/23/23, 11:29:57 AM	10/23/23, 11:51:25 AM	21m 27s	KofoworolaCole@womentechsters.org	Presenter
+Kofoworola Cole	Main meeting		10/23/23, 12:24:36 PM	10/23/23, 12:48:18 PM	23m 42s	KofoworolaCole@womentechsters.org	Presenter
+Kofoworola Cole	Breakout room	Room 11	10/23/23, 12:48:19 PM	10/23/23, 12:59:24 PM	11m 5s	KofoworolaCole@womentechsters.org	Presenter
+Kofoworola Cole	Main meeting		10/23/23, 1:01:15 PM	10/23/23, 1:37:04 PM	35m 48s	KofoworolaCole@womentechsters.org	Presenter
+Fadeelah Ipaye	Main meeting		10/23/23, 9:12:59 AM	10/23/23, 10:18:43 AM	1h 5m 43s	Fadeelah.Ipaye@womentechsters.org	Presenter
+Fadeelah Ipaye	Main meeting		10/23/23, 10:20:09 AM	10/23/23, 10:21:53 AM	1m 44s	Fadeelah.Ipaye@womentechsters.org	Presenter
+Fadeelah Ipaye	Main meeting		10/23/23, 10:33:26 AM	10/23/23, 11:05:18 AM	31m 52s	Fadeelah.Ipaye@womentechsters.org	Presenter
+Fadeelah Ipaye	Main meeting		10/23/23, 11:29:53 AM	10/23/23, 12:09:32 PM	39m 39s	Fadeelah.Ipaye@womentechsters.org	Presenter
+Fadeelah Ipaye	Breakout room	Room 2	10/23/23, 12:09:35 PM	10/23/23, 12:50:33 PM	40m 58s	Fadeelah.Ipaye@womentechsters.org	Presenter
+Fadeelah Ipaye	Main meeting		10/23/23, 12:50:46 PM	10/23/23, 1:38:20 PM	47m 33s	Fadeelah.Ipaye@womentechsters.org	Presenter
+Olufunke Owoseni	Main meeting		10/23/23, 9:13:04 AM	10/23/23, 9:25:02 AM	11m 57s	OlufunkeOwoseni@womentechsters.org	Presenter
+Olufunke Owoseni	Main meeting		10/23/23, 9:28:14 AM	10/23/23, 9:50:53 AM	22m 39s	OlufunkeOwoseni@womentechsters.org	Presenter
+Olufunke Owoseni	Main meeting		10/23/23, 9:52:18 AM	10/23/23, 10:38:18 AM	46m	OlufunkeOwoseni@womentechsters.org	Presenter
+Olufunke Owoseni	Main meeting		10/23/23, 10:40:32 AM	10/23/23, 11:06:36 AM	26m 4s	OlufunkeOwoseni@womentechsters.org	Presenter
+Olufunke Owoseni	Main meeting		10/23/23, 11:09:01 AM	10/23/23, 11:24:31 AM	15m 29s	OlufunkeOwoseni@womentechsters.org	Presenter
+Olufunke Owoseni	Main meeting		10/23/23, 11:25:36 AM	10/23/23, 12:09:27 PM	43m 50s	OlufunkeOwoseni@womentechsters.org	Presenter
+Olufunke Owoseni	Breakout room	Room 7	10/23/23, 12:09:31 PM	10/23/23, 12:59:13 PM	49m 41s	OlufunkeOwoseni@womentechsters.org	Presenter
+Olufunke Owoseni	Main meeting		10/23/23, 12:59:22 PM	10/23/23, 1:04:52 PM	5m 30s	OlufunkeOwoseni@womentechsters.org	Presenter
+Olufunke Owoseni	Main meeting		10/23/23, 1:08:59 PM	10/23/23, 1:43:35 PM	34m 35s	OlufunkeOwoseni@womentechsters.org	Presenter
+Oghenetejiri Akpede	Main meeting		10/23/23, 9:14:04 AM	10/23/23, 9:57:54 AM	43m 49s	OghenetejiriAkpede@womentechsters.org	Presenter
+Oghenetejiri Akpede	Main meeting		10/23/23, 9:59:45 AM	10/23/23, 10:00:58 AM	1m 13s	OghenetejiriAkpede@womentechsters.org	Presenter
+Oghenetejiri Akpede	Main meeting		10/23/23, 10:02:52 AM	10/23/23, 10:07:30 AM	4m 38s	OghenetejiriAkpede@womentechsters.org	Presenter
+Oghenetejiri Akpede	Main meeting		10/23/23, 10:34:44 AM	10/23/23, 10:37:24 AM	2m 40s	OghenetejiriAkpede@womentechsters.org	Presenter
+Oghenetejiri Akpede	Main meeting		10/23/23, 10:53:10 AM	10/23/23, 11:10:35 AM	17m 25s	OghenetejiriAkpede@womentechsters.org	Presenter
+Oghenetejiri Akpede	Main meeting		10/23/23, 11:26:41 AM	10/23/23, 11:31:19 AM	4m 37s	OghenetejiriAkpede@womentechsters.org	Presenter
+Oghenetejiri Akpede	Main meeting		10/23/23, 11:57:26 AM	10/23/23, 12:09:33 PM	12m 6s	OghenetejiriAkpede@womentechsters.org	Presenter
+Oghenetejiri Akpede	Breakout room	Room 9	10/23/23, 12:09:31 PM	10/23/23, 12:13:36 PM	4m 5s	OghenetejiriAkpede@womentechsters.org	Presenter
+Cynthia Amaji	Main meeting		10/23/23, 9:14:22 AM	10/23/23, 11:08:16 AM	1h 53m 54s	CynthiaAmaji@womentechsters.org	Presenter
+Cynthia Amaji	Main meeting		10/23/23, 11:21:14 AM	10/23/23, 12:09:31 PM	48m 17s	CynthiaAmaji@womentechsters.org	Presenter
+Cynthia Amaji	Breakout room	Room 4	10/23/23, 12:09:30 PM	10/23/23, 12:51:54 PM	42m 24s	CynthiaAmaji@womentechsters.org	Presenter
+Cynthia Amaji	Main meeting		10/23/23, 12:51:53 PM	10/23/23, 1:44:25 PM	52m 32s	CynthiaAmaji@womentechsters.org	Presenter
+Ayobami Dunmoye	Main meeting		10/23/23, 9:14:29 AM	10/23/23, 9:45:03 AM	30m 34s	AyobamiDunmoye@womentechsters.org	Presenter
+Ayobami Dunmoye	Main meeting		10/23/23, 9:55:28 AM	10/23/23, 10:06:51 AM	11m 23s	AyobamiDunmoye@womentechsters.org	Presenter
+Ayobami Dunmoye	Main meeting		10/23/23, 10:32:08 AM	10/23/23, 11:01:09 AM	29m 1s	AyobamiDunmoye@womentechsters.org	Presenter
+Ayobami Dunmoye	Main meeting		10/23/23, 11:48:50 AM	10/23/23, 12:09:45 PM	20m 55s	AyobamiDunmoye@womentechsters.org	Presenter
+Ayobami Dunmoye	Breakout room	Room 7	10/23/23, 12:09:41 PM	10/23/23, 12:59:16 PM	49m 34s	AyobamiDunmoye@womentechsters.org	Presenter
+Ayobami Dunmoye	Main meeting		10/23/23, 12:59:11 PM	10/23/23, 1:38:56 PM	39m 45s	AyobamiDunmoye@womentechsters.org	Presenter
+Aanu Adeyinka	Main meeting		10/23/23, 9:15:38 AM	10/23/23, 10:14:22 AM	58m 44s	AanuAdeyinka@womentechsters.org	Presenter
+Aanu Adeyinka	Main meeting		10/23/23, 10:15:26 AM	10/23/23, 10:23:22 AM	7m 56s	AanuAdeyinka@womentechsters.org	Presenter
+Aanu Adeyinka	Main meeting		10/23/23, 10:27:34 AM	10/23/23, 11:17:15 AM	49m 40s	AanuAdeyinka@womentechsters.org	Presenter
+Aanu Adeyinka	Main meeting		10/23/23, 11:20:25 AM	10/23/23, 12:09:40 PM	49m 14s	AanuAdeyinka@womentechsters.org	Presenter
+Aanu Adeyinka	Breakout room	Room 2	10/23/23, 12:09:41 PM	10/23/23, 12:52:31 PM	42m 49s	AanuAdeyinka@womentechsters.org	Presenter
+Aanu Adeyinka	Main meeting		10/23/23, 12:50:39 PM	10/23/23, 1:12:17 PM	21m 38s	AanuAdeyinka@womentechsters.org	Presenter
+Aanu Adeyinka	Breakout room	Room 2	10/23/23, 12:56:54 PM	10/23/23, 12:57:05 PM	10s	AanuAdeyinka@womentechsters.org	Presenter
+Aanu Adeyinka	Main meeting		10/23/23, 1:13:39 PM	10/23/23, 1:39:08 PM	25m 28s	AanuAdeyinka@womentechsters.org	Presenter
+Oluwakemi  Olorunmaiye	Main meeting		10/23/23, 9:17:32 AM	10/23/23, 11:00:57 AM	1h 43m 25s	OluwakemiOlorunmaiye@womentechsters.org	Presenter
+Oluwakemi  Olorunmaiye	Main meeting		10/23/23, 11:17:45 AM	10/23/23, 11:25:44 AM	7m 58s	OluwakemiOlorunmaiye@womentechsters.org	Presenter
+Faith Nnamani	Main meeting		10/23/23, 9:19:59 AM	10/23/23, 11:10:06 AM	1h 50m 6s	FaithNnamani@womentechsters.org	Presenter
+Faith Nnamani	Main meeting		10/23/23, 11:11:54 AM	10/23/23, 12:09:35 PM	57m 41s	FaithNnamani@womentechsters.org	Presenter
+Faith Nnamani	Breakout room	Room 12	10/23/23, 12:09:34 PM	10/23/23, 12:58:40 PM	49m 5s	FaithNnamani@womentechsters.org	Presenter
+Faith Nnamani	Main meeting		10/23/23, 12:58:37 PM	10/23/23, 1:30:46 PM	32m 8s	FaithNnamani@womentechsters.org	Presenter
+Blessing Ehapa	Main meeting		10/23/23, 9:20:06 AM	10/23/23, 11:04:02 AM	1h 43m 55s	BlessingEhapa@womentechsters.org	Presenter
+Blessing Ehapa	Main meeting		10/23/23, 11:30:42 AM	10/23/23, 12:09:38 PM	38m 56s	BlessingEhapa@womentechsters.org	Presenter
+Blessing Ehapa	Breakout room	Room 8	10/23/23, 12:09:33 PM	10/23/23, 12:49:44 PM	40m 11s	BlessingEhapa@womentechsters.org	Presenter
+Blessing Ehapa	Main meeting		10/23/23, 12:49:45 PM	10/23/23, 1:43:23 PM	53m 38s	BlessingEhapa@womentechsters.org	Presenter
+Abisola Adenigba	Main meeting		10/23/23, 9:20:15 AM	10/23/23, 11:24:18 AM	2h 4m 3s	AbisolaAdenigba@womentechsters.org	Presenter
+Abisola Adenigba	Main meeting		10/23/23, 11:38:15 AM	10/23/23, 11:41:57 AM	3m 41s	AbisolaAdenigba@womentechsters.org	Presenter
+Abisola Adenigba	Main meeting		10/23/23, 11:49:27 AM	10/23/23, 1:07:54 PM	1h 18m 26s	AbisolaAdenigba@womentechsters.org	Presenter
+Sholaye Nemi	Main meeting		10/23/23, 9:20:39 AM	10/23/23, 9:47:37 AM	26m 58s	SholayeNemi@womentechsters.org	Presenter
+Sholaye Nemi	Main meeting		10/23/23, 9:53:59 AM	10/23/23, 10:52:17 AM	58m 17s	SholayeNemi@womentechsters.org	Presenter
+Lavisa Mlanzeli	Main meeting		10/23/23, 9:20:57 AM	10/23/23, 10:08:27 AM	47m 30s	LavisaMlanzeli@womentechsters.org	Presenter
+Lavisa Mlanzeli	Main meeting		10/23/23, 10:54:09 AM	10/23/23, 12:09:39 PM	1h 15m 29s	LavisaMlanzeli@womentechsters.org	Presenter
+Elpedia Arthur	Main meeting		10/23/23, 9:21:44 AM	10/23/23, 12:09:29 PM	2h 47m 45s	ElpediaArthur@womentechsters.org	Presenter
+Elpedia Arthur	Breakout room	Room 1	10/23/23, 12:14:36 PM	10/23/23, 12:14:42 PM	5s	ElpediaArthur@womentechsters.org	Presenter
+Oluwatomisin Okeke	Main meeting		10/23/23, 9:24:30 AM	10/23/23, 9:46:11 AM	21m 41s	Oluwatomisin.Okeke@womentechsters.org	Presenter
+Oluwatomisin Okeke	Main meeting		10/23/23, 9:49:04 AM	10/23/23, 1:44:22 PM	3h 55m 17s	Oluwatomisin.Okeke@womentechsters.org	Presenter
+Oluwatomisin Okeke	Breakout room	Room 6	10/23/23, 12:09:28 PM	10/23/23, 1:00:50 PM	51m 21s	Oluwatomisin.Okeke@womentechsters.org	Presenter
+Sonia Nwagbogun	Main meeting		10/23/23, 9:26:19 AM	10/23/23, 11:09:23 AM	1h 43m 4s	Sonia.Nwagbogun@womentechsters.org	Presenter
+Sonia Nwagbogun	Main meeting		10/23/23, 11:21:46 AM	10/23/23, 12:10:24 PM	48m 38s	Sonia.Nwagbogun@womentechsters.org	Presenter
+Sonia Nwagbogun	Breakout room	Room 1	10/23/23, 12:09:30 PM	10/23/23, 12:53:21 PM	43m 50s	Sonia.Nwagbogun@womentechsters.org	Presenter
+Sonia Nwagbogun	Main meeting		10/23/23, 12:53:48 PM	10/23/23, 1:33:46 PM	39m 57s	Sonia.Nwagbogun@womentechsters.org	Presenter
+Benedictta  Nnaji	Main meeting		10/23/23, 9:29:48 AM	10/23/23, 12:11:28 PM	2h 41m 40s	Benedictta.Nnaji@womentechsters.org	Presenter
+Benedictta  Nnaji	Breakout room	Room 4	10/23/23, 12:09:46 PM	10/23/23, 12:09:50 PM	3s	Benedictta.Nnaji@womentechsters.org	Presenter
+Benedictta  Nnaji	Breakout room	Room 4	10/23/23, 12:11:06 PM	10/23/23, 12:52:06 PM	40m 59s	Benedictta.Nnaji@womentechsters.org	Presenter
+Benedictta  Nnaji	Main meeting		10/23/23, 12:51:57 PM	10/23/23, 1:37:05 PM	45m 8s	Benedictta.Nnaji@womentechsters.org	Presenter
+Chinwendu Ogbonna	Main meeting		10/23/23, 9:30:09 AM	10/23/23, 9:58:34 AM	28m 24s	Chinwendu.Ogbonna@womentechsters.org	Presenter
+Chinwendu Ogbonna	Main meeting		10/23/23, 10:02:56 AM	10/23/23, 12:09:33 PM	2h 6m 37s	Chinwendu.Ogbonna@womentechsters.org	Presenter
+Chinwendu Ogbonna	Breakout room	Room 2	10/23/23, 12:09:32 PM	10/23/23, 12:59:03 PM	49m 31s	Chinwendu.Ogbonna@womentechsters.org	Presenter
+Chinwendu Ogbonna	Main meeting		10/23/23, 12:59:03 PM	10/23/23, 1:44:31 PM	45m 28s	Chinwendu.Ogbonna@womentechsters.org	Presenter
+Aisha Kamsalem Kamsalem	Main meeting		10/23/23, 9:40:13 AM	10/23/23, 10:17:27 AM	37m 14s	AishaKamsalemKamsalem@womentechsters.org	Presenter
+Aisha Kamsalem Kamsalem	Main meeting		10/23/23, 10:24:05 AM	10/23/23, 11:13:37 AM	49m 31s	AishaKamsalemKamsalem@womentechsters.org	Presenter
+Aisha Kamsalem Kamsalem	Main meeting		10/23/23, 11:24:09 AM	10/23/23, 12:10:13 PM	46m 3s	AishaKamsalemKamsalem@womentechsters.org	Presenter
+Aisha Kamsalem Kamsalem	Breakout room	Room 1	10/23/23, 12:11:23 PM	10/23/23, 12:53:24 PM	42m 1s	AishaKamsalemKamsalem@womentechsters.org	Presenter
+Aisha Kamsalem Kamsalem	Main meeting		10/23/23, 12:58:51 PM	10/23/23, 1:44:20 PM	45m 29s	AishaKamsalemKamsalem@womentechsters.org	Presenter
+Aisha  Isah	Main meeting		10/23/23, 9:43:22 AM	10/23/23, 10:45:07 AM	1h 1m 45s	AishaIsah@womentechsters.org	Presenter
+Emmanuel Daniel	Main meeting		10/23/23, 9:45:17 AM	10/23/23, 11:24:24 AM	1h 39m 6s	emmanuel.daniel@suretree.com	Presenter
+Maria Namatovu	Main meeting		10/23/23, 9:49:20 AM	10/23/23, 11:00:57 AM	1h 11m 36s	MariaNamatovu@womentechsters.org	Presenter
+Ojochegbe Alikali	Main meeting		10/23/23, 9:52:55 AM	10/23/23, 10:12:17 AM	19m 21s	OjochegbeAlikali@womentechsters.org	Presenter
+Christina  Haule	Main meeting		10/23/23, 10:17:51 AM	10/23/23, 10:43:00 AM	25m 8s	ChristinaHaule@womentechsters.org	Presenter
+Christina  Haule	Main meeting		10/23/23, 10:52:28 AM	10/23/23, 12:04:02 PM	1h 11m 34s	ChristinaHaule@womentechsters.org	Presenter
+Christina  Haule	Main meeting		10/23/23, 12:54:28 PM	10/23/23, 1:03:22 PM	8m 54s	ChristinaHaule@womentechsters.org	Presenter
+Christina  Haule	Main meeting		10/23/23, 1:04:27 PM	10/23/23, 1:44:31 PM	40m 3s	ChristinaHaule@womentechsters.org	Presenter
