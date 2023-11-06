@@ -1,0 +1,1 @@
+# excel-auto-low-quality
